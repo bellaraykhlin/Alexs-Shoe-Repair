@@ -1,0 +1,16 @@
+body {
+  margin: 20px;
+}
+
+.nav{
+  text-align: center;
+}
+
+.nav li{
+  float: none;
+  display: inline-block;
+}
+
+.tab-content {
+  text-align: center;
+}
